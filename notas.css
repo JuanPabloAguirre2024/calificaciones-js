@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+    background-image: url(https://www.sumerlylearning.com/images/como-tener-buenas-calificaciones.webp);
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    height: 100vh;
+    margin: 0; 
+}
